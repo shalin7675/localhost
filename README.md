@@ -53,3 +53,4 @@ Case 3: commited changes(for many commits)<br>
 --> git reset --hard commit hash
 
 
+
